@@ -5,7 +5,7 @@ description 'ESX Animations'
 version '1.0.0'
 
 client_scripts {
-	'es_config.lua',
+	'config.lua',
 	'client/main.lua'
 }
 
